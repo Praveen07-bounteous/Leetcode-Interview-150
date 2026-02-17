@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
