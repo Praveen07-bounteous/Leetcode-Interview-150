@@ -1,22 +1,22 @@
 class Solution {
     public int romanToInt(String s) {
-        int res = 0, n = s.length();
-        boolean yo = true;
-        Map<Character, Integer> map = new HashMap<>();
-        map.put('I', 1);
-        map.put('V', 5);
-        map.put('X', 10);
-        map.put('L', 50);
-        map.put('C', 100);
-        map.put('D', 500);
-        map.put('M', 1000);
-        Stack<Character> stack = new Stack<>();
-        for(int i=0; i<n; i++){
-            if(stack.isEmpty()) stack.push(s.charAt(i));
-            else if(map.get(s.charAt(i)) <= map.get(stack.peek())) stack.push(s.charAt(i));
-            else res += (map.get(s.charAt(i)) - map.get(stack.pop()));
-        }
-        while(!stack.isEmpty()) res += map.get(stack.pop());
-        return res;
+        int ans = 0;
+    int[] roman = new int[128];
+
+    roman['I'] = 1;
+    roman['V'] = 5;
+    roman['X'] = 10;
+    roman['L'] = 50;
+    roman['C'] = 100;
+    roman['D'] = 500;
+    roman['M'] = 1000;
+
+    for (int i = 0; i + 1 < s.length(); ++i)
+      if (roman[s.charAt(i)] < roman[s.charAt(i + 1)])
+        ans -= roman[s.charAt(i)];
+      else
+        ans += roman[s.charAt(i)];
+
+    return ans + roman[s.charAt(s.length() - 1)];
     }
 }
