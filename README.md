@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
