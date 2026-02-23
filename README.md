@@ -128,11 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0226-invert-binary-tree) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -145,8 +147,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
