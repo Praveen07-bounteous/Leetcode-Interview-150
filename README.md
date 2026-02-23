@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0222-count-complete-tree-nodes) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
