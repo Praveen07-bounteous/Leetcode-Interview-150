@@ -126,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 ## Rolling Hash
 |  |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
