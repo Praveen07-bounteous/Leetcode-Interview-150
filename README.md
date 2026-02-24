@@ -132,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0226-invert-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0226-invert-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0226-invert-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
