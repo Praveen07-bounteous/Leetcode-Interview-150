@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0383-ransom-note) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
 |  |
