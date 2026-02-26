@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0383-ransom-note) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0696-count-binary-substrings) |
