@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0383-ransom-note) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Praveen07-bounteous/Leetcode-Interview-150/tree/master/0392-is-subsequence) |
